@@ -1,4 +1,4 @@
-## Team Name : M.E.N. Wizards
+# Team Name : M.E.N. Wizards
 # Team Members : 
 1) Vaibhav ( https://github.com/vaibhav486 )
 2) Anubhav ( https://github.com/anubhavKumar19 )
