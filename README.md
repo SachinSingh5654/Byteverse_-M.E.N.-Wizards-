@@ -1,4 +1,8 @@
 ## Team Name : M.E.N. Wizards
+# Team Members : 
+1) Vaibhav ( https://github.com/vaibhav486 )
+2) Anubhav ( https://github.com/anubhavKumar19 )
+3) Sachin ( https://github.com/SachinSingh5654 )
 
 # PulsePoint : Smart Medical Appointment & Remedy System
   - Theme : Healthcare and Medical Website
